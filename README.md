@@ -41,7 +41,8 @@ Finally, type “localhost:4200” in your browser, type the following code to a
 This web app’s overview is mostly concerned with interacting with clients, hotel data, and so on. The system also shows all accessible information, such as room classifications, reservations, total revenue, pending payments, complaints, workers, and hotel statistics. Under the personnel area, an administrator may easily add employee records. The user must submit his or her full name, position, working shifts, ID card, contact information, and income in order to do so.
 
 🔗 Links
-portfolio linkedin twitter
+![68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4769744875622d4d61726b2e706e67](https://github.com/vardan13/Hotel-Management-System/assets/28480587/c7c6810d-b31c-44f7-bcdf-06d8339d84b4)
+
 
 
 
