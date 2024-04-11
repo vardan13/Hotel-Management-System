@@ -1,7 +1,6 @@
 # Hotel-Management-System
 
-How to run Hotel Management System Project in Angular JS with Source Code?
-Time needed: 5 minutes
+How to run Hotel Management System Project in Angular JS with Source Code
 
 Here’s the step’s on how to run a Hotel Management System Project in Angular JS with Source Code
 
