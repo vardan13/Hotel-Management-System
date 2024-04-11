@@ -40,6 +40,9 @@ Finally, type “localhost:4200” in your browser, type the following code to a
 
 This web app’s overview is mostly concerned with interacting with clients, hotel data, and so on. The system also shows all accessible information, such as room classifications, reservations, total revenue, pending payments, complaints, workers, and hotel statistics. Under the personnel area, an administrator may easily add employee records. The user must submit his or her full name, position, working shifts, ID card, contact information, and income in order to do so.
 
+🔗 Links
+portfolio linkedin twitter
+
 
 
 
