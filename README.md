@@ -1,7 +1,5 @@
 # Hotel-Management-System
 
-![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/vardan13/Hotel-Management-System/assets/28480587/bf4ade90-8ae4-4438-b1a8-24f7606a03cb)
-
 How to run Hotel Management System Project in Angular JS with Source Code?
 Time needed: 5 minutes
 
@@ -41,6 +39,10 @@ Step 7: localhost:4200
 Finally, type “localhost:4200” in your browser, type the following code to access your project dashboard.
 
 This web app’s overview is mostly concerned with interacting with clients, hotel data, and so on. The system also shows all accessible information, such as room classifications, reservations, total revenue, pending payments, complaints, workers, and hotel statistics. Under the personnel area, an administrator may easily add employee records. The user must submit his or her full name, position, working shifts, ID card, contact information, and income in order to do so.
+
+👍   🌍🌐🌍  
+LIKE SUPPORT 
+![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/vardan13/Hotel-Management-System/assets/28480587/bf4ade90-8ae4-4438-b1a8-24f7606a03cb)
 
 
 
